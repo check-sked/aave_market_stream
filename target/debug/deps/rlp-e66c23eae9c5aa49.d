@@ -1,0 +1,12 @@
+/Users/zack/Desktop/code_playground/aave_events_stream/target/debug/deps/librlp-e66c23eae9c5aa49.rmeta: /Users/zack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/lib.rs /Users/zack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/error.rs /Users/zack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/impls.rs /Users/zack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/rlpin.rs /Users/zack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/stream.rs /Users/zack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/traits.rs
+
+/Users/zack/Desktop/code_playground/aave_events_stream/target/debug/deps/librlp-e66c23eae9c5aa49.rlib: /Users/zack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/lib.rs /Users/zack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/error.rs /Users/zack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/impls.rs /Users/zack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/rlpin.rs /Users/zack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/stream.rs /Users/zack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/traits.rs
+
+/Users/zack/Desktop/code_playground/aave_events_stream/target/debug/deps/rlp-e66c23eae9c5aa49.d: /Users/zack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/lib.rs /Users/zack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/error.rs /Users/zack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/impls.rs /Users/zack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/rlpin.rs /Users/zack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/stream.rs /Users/zack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/traits.rs
+
+/Users/zack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/lib.rs:
+/Users/zack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/error.rs:
+/Users/zack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/impls.rs:
+/Users/zack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/rlpin.rs:
+/Users/zack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/stream.rs:
+/Users/zack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rlp-0.5.2/src/traits.rs:

@@ -1,0 +1,10 @@
+/Users/zack/Desktop/code_playground/aave_events_stream/target/debug/deps/libzerovec_derive-92e7d234ef402f09.dylib: /Users/zack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.3/src/lib.rs /Users/zack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.3/src/make_ule.rs /Users/zack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.3/src/make_varule.rs /Users/zack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.3/src/ule.rs /Users/zack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.3/src/utils.rs /Users/zack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.3/src/varule.rs
+
+/Users/zack/Desktop/code_playground/aave_events_stream/target/debug/deps/zerovec_derive-92e7d234ef402f09.d: /Users/zack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.3/src/lib.rs /Users/zack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.3/src/make_ule.rs /Users/zack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.3/src/make_varule.rs /Users/zack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.3/src/ule.rs /Users/zack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.3/src/utils.rs /Users/zack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.3/src/varule.rs
+
+/Users/zack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.3/src/lib.rs:
+/Users/zack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.3/src/make_ule.rs:
+/Users/zack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.3/src/make_varule.rs:
+/Users/zack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.3/src/ule.rs:
+/Users/zack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.3/src/utils.rs:
+/Users/zack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.3/src/varule.rs:
